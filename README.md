@@ -1,4 +1,4 @@
-# 🌳 RataTaskr 🐿️
+# 🐿️ RataTaskr 🐉🌳🦅
 This project is an open source library of tools for aggregating, generating and manipulating data. RataTaskr is built in Node and primarily focuses on ethical web scraping. A secondary purpose of this project is to allow devs of any skill level to learn and receive feedback. Please feel free to work in this repository.
 
 
