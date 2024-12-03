@@ -1,0 +1,9 @@
+{
+  "name": "RataTaskr",
+  "version": "1.0.0",
+  "main": "RataTaskr.js",
+  "repository": "https://github.com/AustinPoulson/RataTaskr.git",
+  "author": "AustinPoulson <AustinPoulson@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
